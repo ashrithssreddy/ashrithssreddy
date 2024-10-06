@@ -11,11 +11,11 @@ I'm a **Full-Stack Data Scientist** with a proven track record of driving data-d
 My mission is to continue exploring innovative solutions in the Data Science field, utilizing my skills to create lasting business impact.
 
 ## 🏆 Professional Summary
-With 6 years of experience, I specialize in:
-- **🔍 Analytical Expertise:** Uncovering actionable insights from large datasets.
-- **🤖 Machine Learning:** Designing and deploying ML models to optimize operations.
-- **💾 Data Engineering:** Building scalable ETL pipelines for data integrity.
-- **📊 Business Intelligence:** Creating dynamic, self-service dashboards for real-time decisions.
+With 6 years of experience as a full-stack Data Scientist, I specialize in:
+- **🔍 Analytical Expertise:** Uncovering actionable insights in Marketing Analytics, Customer/Behavioral Analytics, and Product/Web Analytics.
+- **🤖 Machine Learning:** Industry-focused ML applications, backed by a master’s degree in Statistics. I build models that transform business strategies into data-driven success.
+- **💾 Data Engineering:** Managing some of the largest data pipelines in the private sector, including multi-dimensional clickstream and transaction data.
+- **📊 Business Intelligence:** Developing dynamic, self-service dashboards tailored for stakeholders at all levels, prioritizing design thinking and usability.
 
 ## 🛠 Skills & Tech Stack
 - **🧑‍💻 Programming:** Python, R, SQL
