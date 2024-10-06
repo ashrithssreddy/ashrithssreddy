@@ -1,10 +1,17 @@
 # Hi there 👋 I'm Ashrith Reddy
 
 ## 🌟 Introduction
-I'm a **Full-Stack Data Scientist** passionate about using data to solve real-world problems. With experience in eCommerce, Entertainment, Education, and Retail industries, I leverage analytics to drive business transformations and innovation.
+I'm a **Full-Stack Data Scientist** with a proven track record of driving data-driven transformations across industries. With a passion for leveraging data to solve complex problems, I've worked with Fortune 500 companies and high-growth startups. Here are some of my notable achievements:
+
+- 🚀 **Built end-to-end data pipelines** for the Augmented Reality division, streamlining the product decision-making process.
+- 🎓 **Mentored 700 trainees** in Data Science programming, best practices, and generative AI through comprehensive training programs.
+- 💡 **Unlocked new revenue streams** and implemented churn reduction strategies for a leading Education-Tech conglomerate.
+- 🏆 **Achieved a 50% increase** in click-through rates through emotion-based targeting, recognized by the Wall Street Journal.
+
+My mission is to continue exploring innovative solutions in the data science field, utilizing my skills to create lasting business impact.
 
 ## 🏆 Professional Summary
-With 6 years of experience, I've delivered impactful data-driven solutions for Fortune 500 companies and high-growth startups. I specialize in:
+With 6 years of experience, I specialize in:
 - **🔍 Analytical Expertise:** Uncovering actionable insights from large datasets.
 - **🤖 Machine Learning:** Designing and deploying ML models to optimize operations.
 - **💾 Data Engineering:** Building scalable ETL pipelines for data integrity.
