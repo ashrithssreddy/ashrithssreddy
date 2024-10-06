@@ -18,13 +18,33 @@ With 6 years of experience as a full-stack Data Scientist, I specialize in:
 - **📊 Business Intelligence:** Developing dynamic, self-service dashboards tailored for stakeholders at all levels, prioritizing design thinking and usability.
 
 ## 🛠 Skills & Tech Stack
-- **🧑‍💻 Programming:** Python, R, SQL
-- **📚 Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **🚀 Big Data Tools:** Hadoop, Apache Spark, Databricks, Google BigQuery, AWS Redshift
-- **📈 Visualization:** Tableau, Looker, Matplotlib, GGplot2
-- **🤖 ML Techniques:** Naive Bayes, Random Forest, XGBoost, CNN, RNN, LSTM
-- **🗄 Data Engineering:** Google Cloud Storage, Amazon S3, Apache Airflow
-- **🔧 Version Control:** Git, GitHub
+
+### 🧑‍💻 Programming
+- **Languages:** Python, R, SQL
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+
+### 🤖 Machine Learning & Statistics
+- **Classification:** Naive Bayes, Decision Trees, k-Nearest Neighbors, Support Vector Machines, Logistic Regression
+- **Regression:** Ordinary Least Squares (OLS), Bayesian, Penalized/Regularized Regression
+- **Deep Learning:** Multi-layer Perceptron, CNN, RNN, GAN, Autoencoder, LSTM
+- **Ensemble Methods:** Random Forest, Gradient Boosting Trees (GBT), AdaBoost, XGBoost, Voting, Stacking, Meta-Classifier
+- **Unsupervised Learning:** Clustering methods, Principal Component Analysis (PCA), Association Rule Mining
+- **Experimental Design:** Hypothesis Testing, z-test, t-test, ANOVA, chi-square, A/B testing, Randomization methods, Propensity Score Matching, Difference-in-Differences (DiD), Power Analysis, Bonferroni Correction
+
+### 💡 Problem Domains
+- **Marketing Analytics:** Promotion Affinity, Targeted Advertising, Price Optimization
+- **Customer Analytics:** Survival Analysis, Churn Analysis, Customer Segmentation, Channel Attribution
+- **Product/Web Analytics:** Conversion Funnel Analysis, Behavioral Analytics, Cohort Analysis
+
+### 🗄 Data Engineering
+- **Tools & Platforms:** Google Cloud Platform (GCP) DataProc, AWS EC2, Vertex AI, Hadoop, Hive, Apache Spark, Airflow
+- **Storage:** Google Cloud Storage, Amazon S3, HDFS
+- **Automation & Scripting:** Automated pipelines, deployment with Airflow and other orchestration tools.
+
+### 📊 Business Intelligence
+- **Visualization Tools:** Looker, Tableau, R-shiny
+- **Data Analysis:** BigQuery, Pandas, NumPy
+- **Charting Libraries:** Plot.ly, Matplotlib, GGplot2
 
 ## 📬 Contact
 - **📧 Email:** [ashrithssreddy@gmail.com](mailto:ashrithssreddy@gmail.com)
