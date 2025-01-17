@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ashrith Reddy
+# Hi there 👋 I'm Ash!
 
 ## 🌟 Introduction
 I'm a **Full-Stack Data Scientist** with a proven track record of driving data-driven transformations across industries. With a passion for leveraging data to solve complex problems, I've been a Data Science consultant for Fortune-500 companies and high-growth startups. Here are some of my notable achievements:
