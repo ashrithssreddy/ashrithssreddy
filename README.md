@@ -47,7 +47,7 @@ With 6 years of experience as a full-stack Data Scientist, I specialize in:
 - **Charting Libraries:** Plot.ly, Matplotlib, GGplot2
 
 ## 📬 Contact
-- **📧 Email:** [ashrithssreddy@icloud.com](mailto:ashrithssreddy@icloud.com)
+- **📧 Email:** [ashrithssreddy@duck.com](mailto:ashrithssreddy@duck.com)
 - **🔗 LinkedIn:** [linkedin.com/in/ashrithssreddy](https://www.linkedin.com/in/ashrithssreddy)
 - **🐙 GitHub:** [github.com/ashrithssreddy](https://github.com/ashrithssreddy)
 - **🌐 Personal Website:** [ashrithssreddy.github.io](https://ashrithssreddy.github.io/)
