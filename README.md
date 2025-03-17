@@ -16,15 +16,7 @@ With 6 years of experience as a full-stack Data Scientist, I specialize in:
 - **🤖 Machine Learning:** Industry-focused ML applications, backed by a master’s degree in Statistics. I build models that transform business strategies into data-driven success.
 - **💾 Data Engineering:** Managing some of the largest data pipelines in the private sector, including multi-dimensional clickstream and transaction data.
 - **📊 Business Intelligence:** Developing dynamic, self-service dashboards tailored for stakeholders at all levels, prioritizing design thinking and usability.
-
-## 📬 Contact
-- **📧 Email:** [areddy@gmx.com](mailto:areddy@gmx.com)
-- **🔗 LinkedIn:** [linkedin.com/in/ashrithssreddy](https://www.linkedin.com/in/ashrithssreddy)
-- **🐙 GitHub:** [github.com/ashrithssreddy](https://github.com/ashrithssreddy)
-- **🌐 Personal Website:** [ashrithssreddy.github.io](https://ashrithssreddy.github.io/)
-- **🐦 X:** [@ashrithssreddy](https://x.com/ashrithssreddy)
-- **📚 Goodreads:** [Explore My Bookshelf](https://www.goodreads.com/user/show/60396050-ashrith-reddy)
-
 ---
 
-Feel free to explore my projects and reach out for collaboration or just to say hello!
+Feel free to explore my projects and reach out (areddy@gmx.com) for collaboration or just to say hello!
+
