@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Ash!
+**Hi there 👋**
 
-## 🌟 Introduction
+#### 🌟 Introduction
 I'm a **Full-Stack Data Scientist** with a proven track record of driving data-driven transformations across industries. With a passion for leveraging data to solve complex problems, I've been a Data Science consultant for Fortune-500 companies and high-growth startups. Here are some of my notable achievements:
 
 🚀 **Built end-to-end analytics capabilities** for the Augmented Reality product division, bridging a 4-year go-to-market gap with their largest competitior.
@@ -10,7 +10,7 @@ I'm a **Full-Stack Data Scientist** with a proven track record of driving data-d
 
 My mission is to continue exploring innovative solutions in the Data Science field, utilizing my skills to create lasting business impact.
 
-## 🏆 Professional Summary
+#### 🏆 Professional Summary
 With 6 years of experience as a full-stack Data Scientist, I specialize in:
 
 **🔍 Analytical Expertise:** Uncovering actionable insights in Marketing Analytics, Customer/Behavioral Analytics, and Product/Web Analytics.
