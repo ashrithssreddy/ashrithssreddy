@@ -21,17 +21,16 @@ These are designed to work on nearly any real-world dataset — across industry 
 #### 🛠 Preferred Stack (Code-Only)
 
 - **Languages**: Python, SQL, R  
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- **Stats & Testing**: z-test, t-test, ANOVA, chi-square, A/B testing, Power analysis, Post-hoc  
-- **ML Techniques**: 
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Visualization**: Plotly, Matplotlib, GGplot2, Looker, Tableau, R-Shiny
+- **Big Data & Infra**: Apache Spark, Hive, Hadoop, Databricks, AWS Redshift  
+- **Cloud**: Google Cloud Storage, AWS S3, Airflow, Google BigQuery, Vertex AI, GCP DataProc, EC2  
+- **Statistics**: z-test, t-test, ANOVA, chi-square, A/B testing, Power analysis, Post-hoc  
+- **Machine Learning**: 
   - Classification: Naive Bayes, Trees, Nearest Neighbors, SVM, Logistic Regression  
   - Regression: OLS, Bayesian, Regularized  
   - Ensembles: Random Forest, GBT, AdaBoost, XGBoost, Voting, Stacking  
   - Unsupervised: Clustering, PCA, Association Rules  
-- **Tools**: Jupyter, Git  
-- **Big Data & Infra**: Apache Spark, Hive, Hadoop, Databricks, Airflow, Google BigQuery, AWS Redshift  
-- **Cloud & Storage**: Google Cloud Storage, AWS S3, Vertex AI, GCP DataProc, EC2  
-- **Visualization**: Plotly, Matplotlib, GGplot2, Looker, Tableau, R-Shiny  
 
 ---
 
