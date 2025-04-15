@@ -4,16 +4,10 @@ I write code that helps me think better, build faster, and solve deeper problems
 My code spans industries, langiages and toolkits — built for reuse across industries, academia, and everyday life.
 
 #### 🧱 What I Build
-
-- [ML Toolkit](https://github.com/ashrithssreddy/ml-toolkit)→ : Plug-and-play notebooks for classification, regression, clustering, etc.
-
-- **Statistics Toolkit**  
-  → [statistics-toolkit](https://github.com/ashrithssreddy/statistics-toolkit): Config-driven hypothesis testing and statistical paradoxes.
-
-- **DataFrame Explorer**  
-  → [dataframe-explorer](https://github.com/ashrithssreddy/dataframe-explorer): A utility to rapidly scan, summarize, and understand any dataset.
-
 These are designed to work on nearly any real-world dataset — across industry and academic use cases.
+- [ML Toolkit](https://github.com/ashrithssreddy/ml-toolkit) → Plug-and-play notebooks for classification, regression, clustering, etc.
+- [Statistics Toolkit](https://github.com/ashrithssreddy/statistics-toolkit) → Config-driven hypothesis testing and statistical paradoxes.
+- [DataFrame Explorer](https://github.com/ashrithssreddy/dataframe-explorer) → A utility to rapidly scan, summarize, and understand any dataset.
 
 #### 🧠 For Fun & Mental Sharpness
 
