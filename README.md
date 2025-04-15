@@ -18,20 +18,21 @@ These are designed to work on nearly any real-world dataset — across industry 
 - [zero-digital-footprint](https://github.com/ashrithssreddy/zero-digital-footprint) → A practical guide for protecting your privacy and managing your digital footprint.
 - [digital-homestead-guide](https://github.com/ashrithssreddy/digital-homestead-guide) → Markdown-based guides for privacy-conscious system setup, software choices and local-first workflows.
 
-#### 🛠 Preferred Stack (Code-Only)
+#### 🛠 Preferred Stack 
 
 - **Languages** → Python, SQL, R  
 - **Libraries** → Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - **Visualization** → Plotly, Matplotlib, GGplot2, Looker, Tableau, R-Shiny
 - **Big Data & Infra** → Apache Spark, Hive, Hadoop, Databricks, AWS Redshift  
-- **Cloud** → Google Cloud, AWS, Airflow  
+- **Cloud** → Google Cloud, AWS, Airflow
+<!-- 
 - **Statistics** → z-test, t-test, ANOVA, chi-square, A/B testing
 - **Machine Learning** 
   - Classification → Naive Bayes, Trees, Nearest Neighbors, SVM, Logistic Regression  
   - Regression → OLS, Bayesian, Regularized  
   - Ensembles → Random Forest, GBT, AdaBoost, XGBoost, Voting, Stacking, Meta-classifier  
   - Unsupervised → Clustering, Dim Reduction, Association Rules  
-
+-->
 ---
 
 > Code is how I think. These repos reflect not just what I’ve built — but how I approach problems, stay sharp and document ideas that matter.
