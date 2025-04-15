@@ -10,27 +10,27 @@ These are designed to work on nearly any real-world dataset — across industry 
 - [DataFrame Explorer](https://github.com/ashrithssreddy/dataframe-explorer) → R package to understand dataframes, reducing data coding time by facilitating familiarity before manipulation.
 
 #### 🧠 For Fun & Mental Sharpness
-- [tech-tributes](https://github.com/ashrithssreddy/tech-tributes): Creative writeups that reframe iconic tech stories through data/code.
-- [times-of-twitter](https://github.com/ashrithssreddy/times-of-twitter): Data-driven experiments with social media and timelines.
-- [bitcoin-utils](https://github.com/ashrithssreddy/bitcoin-utils): A playground for analyzing crypto patterns and building lightweight tooling.
+- [tech-tributes](https://github.com/ashrithssreddy/tech-tributes) → Creative writeups that reframe iconic tech stories through data/code.
+- [times-of-twitter](https://github.com/ashrithssreddy/times-of-twitter) → Data-driven experiments with social media and timelines.
+- [bitcoin-utils](https://github.com/ashrithssreddy/bitcoin-utils) → A playground for analyzing crypto patterns and building lightweight tooling.
 
 #### 🔐 Digital Security Learnings
-- [zero-digital-footprint](https://github.com/ashrithssreddy/zero-digital-footprint): Tactics and code for reducing online traceability.
-- [digital-homestead-guide](https://github.com/ashrithssreddy/digital-homestead-guide): Notes and practices for reclaiming your digital independence.
+- [zero-digital-footprint](https://github.com/ashrithssreddy/zero-digital-footprint) → Tactics and code for reducing online traceability.
+- [digital-homestead-guide](https://github.com/ashrithssreddy/digital-homestead-guide) → Notes and practices for reclaiming your digital independence.
 
 #### 🛠 Preferred Stack (Code-Only)
 
-- **Languages**: Python, SQL, R  
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **Visualization**: Plotly, Matplotlib, GGplot2, Looker, Tableau, R-Shiny
-- **Big Data & Infra**: Apache Spark, Hive, Hadoop, Databricks, AWS Redshift  
-- **Cloud**: Google Cloud Storage, AWS S3, Airflow, Google BigQuery, Vertex AI, GCP DataProc, EC2  
-- **Statistics**: z-test, t-test, ANOVA, chi-square, A/B testing, Power analysis, Post-hoc  
-- **Machine Learning**: 
-  - Classification: Naive Bayes, Trees, Nearest Neighbors, SVM, Logistic Regression  
-  - Regression: OLS, Bayesian, Regularized  
-  - Ensembles: Random Forest, GBT, AdaBoost, XGBoost, Voting, Stacking  
-  - Unsupervised: Clustering, PCA, Association Rules  
+- **Languages** → Python, SQL, R  
+- **Libraries** → Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Visualization** → Plotly, Matplotlib, GGplot2, Looker, Tableau, R-Shiny
+- **Big Data & Infra** → Apache Spark, Hive, Hadoop, Databricks, AWS Redshift  
+- **Cloud** → Google Cloud Storage, AWS S3, Airflow, Google BigQuery, Vertex AI, GCP DataProc, EC2  
+- **Statistics** → z-test, t-test, ANOVA, chi-square, A/B testing, Power analysis, Post-hoc  
+- **Machine Learning** 
+  - Classification → Naive Bayes, Trees, Nearest Neighbors, SVM, Logistic Regression  
+  - Regression → OLS, Bayesian, Regularized  
+  - Ensembles → Random Forest, GBT, AdaBoost, XGBoost, Voting, Stacking  
+  - Unsupervised → Clustering, PCA, Association Rules  
 
 ---
 
