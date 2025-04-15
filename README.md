@@ -3,10 +3,9 @@
 I write code that helps me think better, build faster, and solve deeper problems.  
 My code spans industries, langiages and toolkits — built for reuse across industries, academia, and everyday life.
 
-## 🧱 What I Build
+#### 🧱 What I Build
 
-- **ML Toolkit**  
-  → [ml-toolkit](https://github.com/ashrithssreddy/ml-toolkit): Plug-and-play notebooks for classification, regression, clustering, etc.
+- [ML Toolkit](https://github.com/ashrithssreddy/ml-toolkit)→ : Plug-and-play notebooks for classification, regression, clustering, etc.
 
 - **Statistics Toolkit**  
   → [statistics-toolkit](https://github.com/ashrithssreddy/statistics-toolkit): Config-driven hypothesis testing and statistical paradoxes.
@@ -16,18 +15,18 @@ My code spans industries, langiages and toolkits — built for reuse across indu
 
 These are designed to work on nearly any real-world dataset — across industry and academic use cases.
 
-## 🧠 For Fun & Mental Sharpness
+#### 🧠 For Fun & Mental Sharpness
 
 - [tech-tributes](https://github.com/ashrithssreddy/tech-tributes): Creative writeups that reframe iconic tech stories through data/code.
 - [times-of-twitter](https://github.com/ashrithssreddy/times-of-twitter): Data-driven experiments with social media and timelines.
 - [bitcoin-utils](https://github.com/ashrithssreddy/bitcoin-utils): A playground for analyzing crypto patterns and building lightweight tooling.
 
-## 🔐 Digital Hygiene Documentation
+#### 🔐 Digital Hygiene Documentation
 
 - [zero-digital-footprint](https://github.com/ashrithssreddy/zero-digital-footprint): Tactics and code for reducing online traceability.
 - [digital-homestead-guide](https://github.com/ashrithssreddy/digital-homestead-guide): Notes and practices for reclaiming your digital independence.
 
-## 🛠 Preferred Stack (Code-Only)
+#### 🛠 Preferred Stack (Code-Only)
 
 - **Languages**: Python, SQL, R  
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
