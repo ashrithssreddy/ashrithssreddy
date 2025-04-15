@@ -24,13 +24,13 @@ These are designed to work on nearly any real-world dataset — across industry 
 - **Libraries** → Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - **Visualization** → Plotly, Matplotlib, GGplot2, Looker, Tableau, R-Shiny
 - **Big Data & Infra** → Apache Spark, Hive, Hadoop, Databricks, AWS Redshift  
-- **Cloud** → Google Cloud Storage, AWS S3, Airflow, Google BigQuery, Vertex AI, GCP DataProc, EC2  
-- **Statistics** → z-test, t-test, ANOVA, chi-square, A/B testing, Power analysis, Post-hoc  
+- **Cloud** → Google Cloud, AWS, Airflow  
+- **Statistics** → z-test, t-test, ANOVA, chi-square, A/B testing
 - **Machine Learning** 
   - Classification → Naive Bayes, Trees, Nearest Neighbors, SVM, Logistic Regression  
   - Regression → OLS, Bayesian, Regularized  
-  - Ensembles → Random Forest, GBT, AdaBoost, XGBoost, Voting, Stacking  
-  - Unsupervised → Clustering, PCA, Association Rules  
+  - Ensembles → Random Forest, GBT, AdaBoost, XGBoost, Voting, Stacking, Meta-classifier  
+  - Unsupervised → Clustering, Dim Reduction, Association Rules  
 
 ---
 
