@@ -1,7 +1,6 @@
 # 👨‍💻 Ash Reddy | Code-First Data Scientist
 
-I write code that helps me think better, build faster, and solve deeper problems.  
-My code spans industries, langiages and toolkits — built for reuse across industries, academia, and everyday life.
+I write code that helps me think better, build faster and solve deeper. My code spans industries, langiages and toolkits — built for reuse across industries, academia and everyday life.
 
 #### 🧱 What I Build
 These are designed to work on nearly any real-world dataset — across industry and academic use cases.
