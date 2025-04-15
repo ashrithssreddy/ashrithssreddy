@@ -15,8 +15,8 @@ These are designed to work on nearly any real-world dataset — across industry 
 - [bitcoin-utils](https://github.com/ashrithssreddy/bitcoin-utils) → A playground for analyzing crypto patterns and building lightweight tooling.
 
 #### 🔐 Digital Security Learnings
-- [zero-digital-footprint](https://github.com/ashrithssreddy/zero-digital-footprint) → Tactics and code for reducing online traceability.
-- [digital-homestead-guide](https://github.com/ashrithssreddy/digital-homestead-guide) → Notes and practices for reclaiming your digital independence.
+- [zero-digital-footprint](https://github.com/ashrithssreddy/zero-digital-footprint) → A practical guide for protecting your privacy and managing your digital footprint.
+- [digital-homestead-guide](https://github.com/ashrithssreddy/digital-homestead-guide) → Markdown-based guides for privacy-conscious system setup, software choices and local-first workflows.
 
 #### 🛠 Preferred Stack (Code-Only)
 
