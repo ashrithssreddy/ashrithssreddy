@@ -5,18 +5,16 @@ My code spans industries, langiages and toolkits — built for reuse across indu
 
 #### 🧱 What I Build
 These are designed to work on nearly any real-world dataset — across industry and academic use cases.
-- [ML Toolkit](https://github.com/ashrithssreddy/ml-toolkit) → Plug-and-play notebooks for classification, regression, clustering, etc.
-- [Statistics Toolkit](https://github.com/ashrithssreddy/statistics-toolkit) → Config-driven hypothesis testing and statistical paradoxes.
-- [DataFrame Explorer](https://github.com/ashrithssreddy/dataframe-explorer) → A utility to rapidly scan, summarize, and understand any dataset.
+- [ML Toolkit](https://github.com/ashrithssreddy/ml-toolkit) → A curated collection of machine learning workflows with embedded explanations for fast, reusable implementation.
+- [Statistics Toolkit](https://github.com/ashrithssreddy/statistics-toolkit) → Applied statistics workflows with explanatory depth, covering A/B testing, hypothesis testing, and introductory statistics.
+- [DataFrame Explorer](https://github.com/ashrithssreddy/dataframe-explorer) → R package to understand dataframes, reducing data coding time by facilitating familiarity before manipulation.
 
 #### 🧠 For Fun & Mental Sharpness
-
 - [tech-tributes](https://github.com/ashrithssreddy/tech-tributes): Creative writeups that reframe iconic tech stories through data/code.
 - [times-of-twitter](https://github.com/ashrithssreddy/times-of-twitter): Data-driven experiments with social media and timelines.
 - [bitcoin-utils](https://github.com/ashrithssreddy/bitcoin-utils): A playground for analyzing crypto patterns and building lightweight tooling.
 
-#### 🔐 Digital Hygiene Documentation
-
+#### 🔐 Digital Security Learnings
 - [zero-digital-footprint](https://github.com/ashrithssreddy/zero-digital-footprint): Tactics and code for reducing online traceability.
 - [digital-homestead-guide](https://github.com/ashrithssreddy/digital-homestead-guide): Notes and practices for reclaiming your digital independence.
 
