@@ -22,8 +22,8 @@ These are designed to work on nearly any real-world dataset — across industry 
 - **Languages** → Python, SQL, R  
 - **Libraries** → Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - **Visualization** → Plotly, Matplotlib, GGplot2, Looker, Tableau, R-Shiny
-- **Big Data & Infra** → Apache Spark, Hive, Hadoop, Databricks, AWS Redshift  
-- **Cloud** → Google Cloud, AWS, Airflow
+- **Big Data & Infra** → Apache Spark, Hive, Airflow, Hadoop, Databricks, AWS Redshift  
+- **Cloud** → Google Cloud, AWS
 <!-- 
 - **Statistics** → z-test, t-test, ANOVA, chi-square, A/B testing
 - **Machine Learning** 
