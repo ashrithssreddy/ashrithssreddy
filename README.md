@@ -1,9 +1,8 @@
 ## 👨‍💻 Ash Reddy | Coder → Data Scientist
 
-I write code that helps me think better, build faster and solve deeper. My code spans industries, langiages and toolkits — built for reuse across industries, academia and everyday life.
+I write code that helps me think better, build faster and solve deeper. My code spans industries, langiages and toolkits — built for reuse across industries and academic use cases.
 
 #### 🧱 What I Build
-These are designed to work on nearly any real-world dataset — across industry and academic use cases.
 - [ML Toolkit](https://ashrithssreddy.github.io/ml-toolkit/) → A curated collection of machine learning workflows with embedded explanations for fast, reusable implementation.
 - [Statistics Toolkit](https://ashrithssreddy.github.io/statistics-toolkit/) → Applied statistics workflows with explanatory depth, covering A/B testing, hypothesis testing, and introductory statistics.
 - [DataFrame Explorer](https://cran.r-project.org/web/packages/dataframeexplorer/index.html) → R package to understand dataframes, reducing data coding time by facilitating familiarity before manipulation.
